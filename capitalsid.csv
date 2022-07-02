@@ -1,0 +1,195 @@
+country,id,name
+AD,3041563,0,Andorra la Vella
+AE,292968,0,Abu Dhabi
+AF,1138958,0,Kabul
+AI,3573374,0,The Valley
+AL,3183875,0,Tirana
+AM,616051,0,Yerevan
+AO,2240449,0,Luanda
+AR,3435907,0,Buenos Aires
+AS,5881576,0,Pago Pago
+AT,2761369,0,Vienna
+AU,2172517,0,Canberra
+AW,3577154,0,Oranjestad
+AZ,587084,0,Baku
+BA,3191281,0,Sarajevo
+BB,3374036,0,Bridgetown
+BD,1185241,0,Dhaka
+BE,2800866,0,Brussels
+BF,2357048,0,Ouagadougou
+BG,727011,0,Sofia
+BI,425378,0,Bujumbura
+BL,3579132,0,Gustavia
+BM,3573197,0,Hamilton
+BN,1820906,0,Bandar Seri Begawan
+BS,3571824,0,Nassau
+BT,1252416,0,Thimphu
+BW,933773,0,Gaborone
+BY,625144,0,Minsk
+BZ,3582672,0,Belmopan
+CA,6094817,0,Ottawa
+CA,6324733,0,St John's
+CC,7304591,0,West Island
+CD,2314302,0,Kinshasa
+CF,2389853,0,Bangui
+CG,2260535,0,Brazzaville
+CH,2661552,0,Bern
+CK,4035715,0,Avarua
+CL,4030754,0,Hanga Roa
+CN,1816670,0,Beijing
+CU,3553478,0,Havana
+CV,3374333,0,Praia
+CW,3513090,0,Willemstad
+CX,2078127,0,Flying Fish Cove
+CY,146268,0,Nicosia
+CZ,3067696,0,Prague
+DE,2950159,0,Berlin
+DJ,223817,0,Djibouti
+DK,2618425,0,Copenhagen
+DM,3575721,0,Marigot
+DM,3575635,0,Roseau
+DO,3492908,0,Santo Domingo
+DZ,2507480,0,Algiers
+EC,3652462,0,Quito
+EE,862995,0,Tallinn
+EG,360630,0,Cairo
+ER,343300,0,Asmara
+ES,3117735,0,Madrid
+ET,344979,0,Addis Ababa
+FI,658225,0,Helsinki
+FJ,2198148,0,Suva
+FK,3426691,0,Stanley
+FR,2968815,0,Paris
+GA,2399697,0,Libreville
+GB,2643743,0,London
+GE,6940391,0,Tskhinvali
+GF,6690689,0,Cayenne
+GH,2306104,0,Accra
+GI,2411585,0,Gibraltar
+GL,3421319,0,Nuuk
+GM,2413875,0,Banjul
+GN,2422465,0,Conakry
+GQ,2309527,0,Malabo
+GR,264371,0,Athens
+GS,3426466,0,Grytviken
+GT,3598132,0,Guatemala City
+GW,2374775,0,Bissau
+HN,3600949,0,Tegucigalpa
+HR,3186886,0,Zagreb
+HT,3718426,0,Port-au-Prince
+HU,3054638,0,Budapest
+ID,1642911,0,Jakarta
+IE,2964574,0,Dublin
+IM,3042237,0,Douglas
+IN,1261481,0,New Delhi
+IQ,98182,0,Baghdad
+IR,112931,0,Tehran
+IT,3169070,0,Rome
+JM,3489854,0,Kingston
+JO,250441,0,Amman
+JP,1850147,0,Tokyo
+KE,184742,0,Nairobi
+KG,1528675,0,Bishkek
+KH,1821306,0,Phnom Penh
+KI,7521611,0,Tarawa
+KM,921772,0,Moroni
+KN,3575551,0,Basseterre
+KP,1871856,0,Pyongyang
+KR,1835847,0,Seoul
+KW,285787,0,Kuwait City
+KY,3580661,0,George Town
+LA,1651944,0,Vientiane
+LB,276781,0,Beirut
+LC,3576812,0,Castries
+LI,3042030,0,Vaduz
+LR,2274895,0,Monrovia
+LS,932505,0,Maseru
+LT,593116,0,Vilnius
+LU,2960315,0,Luxembourg
+LV,456172,0,Riga
+LY,2210247,0,Tripoli
+MA,2538474,0,Rabat
+MC,2993458,0,Monaco
+MD,618426,0,Chisinau
+MD,617239,0,Tiraspol
+MG,1070940,0,Antananarivo
+MH,2113779,0,Majuro
+MK,785842,0,Skopje
+ML,2460596,0,Bamako
+MN,2028462,0,Ulan Bator
+MP,7828758,0,Saipan
+MR,2377450,0,Nouakchott
+MT,2562305,0,Valletta
+MU,934154,0,Port Louis
+MW,927967,0,Lilongwe
+MX,3530597,0,Mexico City
+MZ,1040652,0,Maputo
+NA,3352136,0,Windhoek
+NE,2440485,0,Niamey
+NF,2161314,0,Kingston
+NG,2352778,0,Abuja
+NI,3617763,0,Managua
+NL,2759794,0,Amsterdam
+NO,3143244,0,Oslo
+NP,1283240,0,Kathmandu
+NU,4036284,0,Alofi
+NZ,2179538,0,Wellington
+OM,287286,0,Muscat
+PE,3936452,0,Lima
+PF,4033936,0,Papeete
+PG,2088122,0,Port Moresby
+PH,1701668,0,Manila
+PK,1162015,0,Islamabad
+PL,756135,0,Warsaw
+PN,4030723,0,Adamstown
+PR,4568138,0,San Juan
+PT,2267057,0,Lisbon
+QA,290030,0,Doha
+RO,683506,0,Bucharest
+RS,792680,0,Belgrade
+RU,524894,0,Moscow
+RW,202061,0,Kigali
+SA,108410,0,Riyadh
+SB,2108502,0,Honiara
+SC,241131,0,Victoria
+SD,379252,0,Khartoum
+SE,2673722,0,Stockholm
+SG,1880252,0,Singapore
+SH,3370726,0,Edinburgh of the Seven Seas
+SH,3370903,0,Jamestown
+SI,3196359,0,Ljubljana
+SK,3060972,0,Bratislava
+SL,2408770,0,Freetown
+SM,3168070,0,San Marino
+SN,2253350,0,Dakar
+SO,53654,0,Mogadishu
+SR,3383330,0,Paramaribo
+SS,373303,0,Juba
+SV,3583361,0,San Salvador
+SX,3513392,0,Philipsburg
+SY,170654,0,Damascus
+TC,3576994,0,Cockburn Town
+TD,2427123,0,N'Djamena
+TH,1609348,0,Bangkok
+TJ,1221874,0,Dushanbe
+TL,1645457,0,Dili
+TM,162183,0,Ashgabat
+TN,2464470,0,Tunis
+TR,323784,0,Ankara
+TT,3573890,0,Port of Spain
+TV,2110384,0,Funafuti
+TW,1665148,0,Taipei
+UG,232422,0,Kampala
+US,4140963,0,Washington DC
+UY,3441575,0,Montevideo
+UZ,1512569,0,Tashkent
+VA,6691831,0,Vatican City
+VC,3577887,0,Kingstown
+VE,3646738,0,Caracas
+VG,3577430,0,Road Town
+VI,4795467,0,Charlotte Amalie
+WF,4034821,0,Mata-Utu
+WS,4035413,0,Apia
+XK,786714,0,Pristina
+ZM,909137,0,Lusaka
+ZW,890299,0,Harare
