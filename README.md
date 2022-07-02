@@ -9,8 +9,4 @@
 Список температуры состоит из групп с шагом в 5 градусов от минимальной до максимальной. Список скорости ветра формируется с шагом 3 м/с.
 Далее открывается оконное приложение.
 
-![img](https://github.com/shumasey/WhereIsMyWeather/blob/main/WhereIsMyWeather.png)
-
-Следующий ролик демонстрирует работу приложения.
- 
-![video](https://github.com/shumasey/WhereIsMyWeather/blob/main/WhereIsMyWeather.mp4)
+![video](https://github.com/shumasey/WhereIsMyWeather/blob/main/WhereIsMyWeather.gif)
